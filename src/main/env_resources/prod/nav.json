@@ -1,0 +1,24 @@
+{
+  "Login": {
+    "loginType": "password"
+  },
+  "baseaddess": {
+    "simpleapiurl": "https://qtalk.corp.xxx.com",
+    "fileurl": "https://qtalk.corp.xxx.com",
+    "domain": "qtalk.xxx.org",
+    "javaurl": "https://qtalk.corp.xxx.com/package",
+    "protobufPcPort": 5202,
+    "xmpp": "192.168.1.1",
+    "xmppport": 5222,
+    "protobufPort": 5202,
+    "pubkey": "rsa_public_key",
+    "xmppmport": 5222,
+    "httpurl": "https://qtalk.corp.xxx.com/newapi",
+    "apiurl": "https://qtalk.corp.xxx.com/api"
+  },
+  "imConfig": {
+    "RsaEncodeType": 1,
+    "showOrganizational": true
+  },
+  "version": 10005
+}
