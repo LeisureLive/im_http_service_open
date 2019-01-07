@@ -20,5 +20,8 @@
     "RsaEncodeType": 1,
     "showOrganizational": true
   },
+  "ability": {
+    "searchurl": "http://qtalk.corp.xxx.com/search/search.py"
+  },
   "version": 10005
 }

@@ -5,7 +5,7 @@
   "baseaddess": {
     "simpleapiurl": "https://qtalk.corp.xxx.com",
     "fileurl": "https://qtalk.corp.xxx.com",
-    "domain": "qtalk.xxx.org",
+    "domain": "qtalk.test.org",
     "javaurl": "https://qtalk.corp.xxx.com/package",
     "protobufPcPort": 5202,
     "xmpp": "192.168.1.1",
@@ -19,6 +19,9 @@
   "imConfig": {
     "RsaEncodeType": 1,
     "showOrganizational": true
+  },
+  "ability": {
+    "searchurl": "http://qtalk.corp.xxx.com/search/search.py"
   },
   "version": 10005
 }
